@@ -14,6 +14,13 @@
 - [bbot](https://github.com/blacklanternsecurity/bbot)
 - [theHarvester](https://github.com/laramies/theHarvester)
 
+## DNS Bruteforce
+- [massdns](https://github.com/blechschmidt/massdns)
+- [gobuster](https://github.com/OJ/gobuster)
+- [shuffledns](https://github.com/projectdiscovery/shuffledns)
+- [puredns](https://github.com/d3mondev/puredns)
+- [aiodnsbrute](https://github.com/blark/aiodnsbrute)
+
 ## HTTP Probe
 - [httprobe](https://github.com/tomnomnom/httprobe)
 - [httpx](https://github.com/projectdiscovery/httpx)
