@@ -27,3 +27,12 @@
 
 ## URL Spider
 - [gau](https://github.com/lc/gau)
+
+## History
+- [waybackurls](https://github.com/tomnomnom/waybackurls)
+
+## Pattern Search
+- [gf](https://github.com/tomnomnom/gf)
+
+## Query String Replacer
+- [qsreplace](https://github.com/tomnomnom/qsreplace)
