@@ -9,3 +9,5 @@
 - [crtsh](https://github.com/famasoon/crtsh)
 - [assetfinder](github.com/tomnomnom/assetfinder)
 - [subbrute](https://github.com/TheRook/subbrute)
+- [sublist3r](https://github.com/aboul3la/Sublist3r)
+- [knockpy](https://github.com/guelfoweb/knock)
