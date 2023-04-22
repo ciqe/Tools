@@ -11,3 +11,7 @@
 - [subbrute](https://github.com/TheRook/subbrute)
 - [sublist3r](https://github.com/aboul3la/Sublist3r)
 - [knockpy](https://github.com/guelfoweb/knock)
+
+## HTTP Probe
+- [httprobe](https://github.com/tomnomnom/httprobe)
+- [httpx](https://github.com/projectdiscovery/httpx)
