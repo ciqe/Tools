@@ -21,6 +21,13 @@
 - [puredns](https://github.com/d3mondev/puredns)
 - [aiodnsbrute](https://github.com/blark/aiodnsbrute)
 
+## Directory Bruteforcing
+- [dirb](https://tools.kali.org/web-applications/dirb)
+- [dirbuster](https://tools.kali.org/web-applications/dirbuster)
+- [gobuster](https://tools.kali.org/web-applications/gobuster)
+- [dirsearch](https://github.com/maurosoria/dirsearch)
+- [ffuf](https://github.com/ffuf/ffuf)
+
 ## HTTP Probe
 - [httprobe](https://github.com/tomnomnom/httprobe)
 - [httpx](https://github.com/projectdiscovery/httpx)
