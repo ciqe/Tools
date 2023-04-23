@@ -28,6 +28,12 @@
 - [dirsearch](https://github.com/maurosoria/dirsearch)
 - [ffuf](https://github.com/ffuf/ffuf)
 
+## Dorking and Research
+- [slurp](https://github.com/0xbharath/slurp)
+- [BucketFlaws](https://github.com/nikhil1232/Bucket-Flaws)
+- [S3Scanner](https://github.com/sa7mon/S3Scanner)
+- [AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump)
+
 ## HTTP Probe
 - [httprobe](https://github.com/tomnomnom/httprobe)
 - [httpx](https://github.com/projectdiscovery/httpx)
