@@ -33,6 +33,10 @@
 - [BucketFlaws](https://github.com/nikhil1232/Bucket-Flaws)
 - [S3Scanner](https://github.com/sa7mon/S3Scanner)
 - [AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump)
+- [Github dorks](https://github.com/H4CK3RT3CH/github-dorks)
+- [trufflehog](https://github.com/dxa4481/truffleHog)
+- [gitrob](https://github.com/michenriksen/gitrob)
+- [gittyleaks](https://github.com/kootenpv/gittyleaks)
 
 ## HTTP Probe
 - [httprobe](https://github.com/tomnomnom/httprobe)
@@ -49,3 +53,6 @@
 
 ## Query String Replacer
 - [qsreplace](https://github.com/tomnomnom/qsreplace)
+
+## Wordlist
+- [SecLists](https://github.com/danielmiessler/SecLists)
