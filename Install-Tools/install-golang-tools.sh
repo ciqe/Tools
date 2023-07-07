@@ -4,6 +4,9 @@ go install -v github.com/tomnomnom/assetfinder@latest
 echo -e "\n\n\n\n\nInstalling anew..."
 go install -v github.com/tomnomnom/anew@latest
 
+echo -e "\n\n\n\n\nInstalling dalfox..."
+go install -v github.com/hahwul/dalfox/v2@latest
+
 echo -e "\n\n\n\n\nInstalling dnsx..."
 go install -v github.com/projectdiscovery/dnsx/cmd/dnsx@latest
 
