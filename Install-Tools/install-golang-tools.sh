@@ -19,6 +19,9 @@ go install -v github.com/lc/gau/v2/cmd/gau@latest
 echo -e "\n\n\n\n\nInstalling gf..."
 go install -v github.com/tomnomnom/gf@latest
 
+echo -e "\n\n\n\n\nInstalling gobuster..."
+go install -v github.com/OJ/gobuster/v3@latest
+
 echo -e "\n\n\n\n\nInstalling httprobe..."
 go install -v github.com/tomnomnom/httprobe@latest
 
