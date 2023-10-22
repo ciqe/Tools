@@ -8,5 +8,6 @@ content-signature-2.cdn.mozilla.net,
 firefox.settings.services.mozilla.com, 
 location.services.mozilla.com, 
 normandy.cdn.mozilla.net, 
+push.services.mozilla.com, 
 versioncheck-bg.addons.mozilla.org, 
 safebrowsing.googleapis.com
